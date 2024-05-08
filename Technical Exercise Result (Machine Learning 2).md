@@ -1,6 +1,6 @@
 # Technical Exercise Result (Machine Learning 2)
 
-### Project name: Submission Membuat Model Machine Learning dengan Data Time Series
+### Project name: Submission Hourly Energy Consumption
 
 ## Project Summary
 
