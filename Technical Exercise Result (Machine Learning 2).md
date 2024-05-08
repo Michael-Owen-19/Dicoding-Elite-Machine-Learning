@@ -23,7 +23,7 @@
 
 ## Code Review
 
-![Screenshot 2024-05-08 113541.png](Technical%20Exercise%20Result%20(Machine%20Learning%202)%2047d02901c67c40708f82e509f48b4285/Screenshot_2024-05-08_113541.png)
+![Screenshot 2024-05-08 113541.png](Image/Screenshot_2024-05-08_113541.png)
 
 > Sebaiknya data.head() dipisah pemanggilannya ke dalam cell baru agar dapat meningkatkan keterbacaan hasil kode setelah dijalankan
 >
